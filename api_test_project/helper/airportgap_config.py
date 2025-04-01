@@ -2,8 +2,8 @@ BASE_URL = "https://airportgap.com/api"
 
 
 CREDENTIALS = {
-    "email":"reut5567464@gmail.com",
-    "password":"tuti556"
+    "email":"XXX",
+    "password":"XXX"
 }
 
 VALIDATION_TEST_DATA = {
